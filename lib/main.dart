@@ -18,7 +18,7 @@ void main()
                   Colors.yellow,
                   //add more color here.
                   ],
-                ).createShader(Rect.fromLTWH(100.0, 500.0, 500.0, 10.0))
+                ).createShader(Rect.fromLTWH(100.0, 500.0, 300.0, 10.0))
               )
             ),
           ),
